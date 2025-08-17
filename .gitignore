@@ -1,0 +1,47 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build outputs
+/build/
+android/app/build/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# VSCode & IntelliJ
+.idea/
+.vscode/
+*.iml
+
+# macOS & Xcode
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+
+# Keystore / Keys
+*.jks
+*.keystore
+*.pem
+*.p12
+*.crt
+*.cer
+*.key
+
+# Environment & secrets
+.env
+firebase_options.dart
+google-services.json
+GoogleService-Info.plist
